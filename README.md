@@ -5,7 +5,7 @@ UseState é um hook - >
 Com esse hook , não necessitamos criar uma classes para manipular o estado do objeto ! 
 syntax do useState
 const [state, setstate] = useState(initialState)
-
+![Screenshot]((contador.png)
 
 # Getting Started with Create React App
 
