@@ -1,3 +1,12 @@
+#Objetivo com o Simples projeto !
+Entender o funcionamento do useState e MaterialUI
+Sobre o UseState 
+UseState é um hook - > 
+Com esse hook , não necessitamos criar uma classes para manipular o estado do objeto ! 
+syntax do useState
+const [state, setstate] = useState(initialState)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
