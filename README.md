@@ -6,6 +6,7 @@ Com esse hook , não necessitamos criar uma classes para manipular o estado do o
 syntax do useState
 const [state, setstate] = useState(initialState)
 ![Screenshot](contador.png)
+!!!
 
 # Getting Started with Create React App
 
