@@ -7,6 +7,7 @@ syntax do useState
 const [state, setstate] = useState(initialState)
 ![Screenshot](contador.png)
 !!!
+By Nomade Programador !
 
 # Getting Started with Create React App
 
